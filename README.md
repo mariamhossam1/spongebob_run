@@ -1,0 +1,3 @@
+This is a Subway Surfers inspired game called the Spongebob Run. The controls for moving right and left are 'L' for right and 'J' for left. You can also jump using the 'I' key. The goal is to collect as many jellyfish as possible in the first level, and as many krabby patties as possible in the second level, all while not losing all your lives.
+There are two powerups: the one in the first level earns you double the points for each jellyfish (a jellyfish is worth 2 points instead of 1), and the one in the second level gives you immunity against sea urchins. They both work for a limited amount of time.
+This game was designed using OpenGL library and C++ coding language.
